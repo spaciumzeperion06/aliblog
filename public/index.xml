@@ -1,11 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>alice&#39;s blog</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on alice&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
+    <lastBuildDate>Fri, 15 Aug 2025 13:59:45 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Fri, 15 Aug 2025 13:59:45 +0200</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;ciao&#34;&gt;Ciao!&lt;/h1&gt;&#xA;&lt;p&gt;Mi chiamo alice, ho 18 anni, vivo in italia e sto attualmente studiando per entrare all&amp;rsquo;accademia di belle arti di napoli nella facoltà di Cinema e Audiovisivo. Ho una passione per la cultura pop giapponese, in particolare anime mecha e programmi televisivi tokusatsu, ma ho anche un vago interesse per l&amp;rsquo;informatica e l&amp;rsquo;elettronica. Su questo blog parlerò della mia vita personale, ma anche di film, serie e libri che mi piacciono :3&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h1 id="ciao">Ciao!</h1>
+<p>Mi chiamo alice, ho 18 anni, vivo in italia e sto attualmente studiando per entrare all&rsquo;accademia di belle arti di napoli nella facoltà di Cinema e Audiovisivo. Ho una passione per la cultura pop giapponese, in particolare anime mecha e programmi televisivi tokusatsu, ma ho anche un vago interesse per l&rsquo;informatica e l&rsquo;elettronica. Su questo blog parlerò della mia vita personale, ma anche di film, serie e libri che mi piacciono :3</p>
+<p>Ho intenzione di gestire questo sito per puri scopi personali, quindi solo per scrivere della mia vita, perché ho sempre avuto una tendenza ad utilizzare i social come &ldquo;diari&rdquo;, e andando avanti con gli anni mi sono resa conto che ho solo bisogno di uno spazio in cui esprimermi, anche se magari nessuno vede cosa scrivo, e soprattutto mi piace poter archiviare le cose che scrivo e penso in maniera tale da tenerle ordinate e poter mandare velocemente un post a chiunque sia interessato.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>First Post</title>
+      <link>http://localhost:1313/posts/first-post/</link>
+      <pubDate>Fri, 15 Aug 2025 12:28:56 +0200</pubDate>
+      <guid>http://localhost:1313/posts/first-post/</guid>
+      <description>&lt;p&gt;hiiii&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>hiiii</p>
+]]></content:encoded>
+    </item>
   </channel>
 </rss>
