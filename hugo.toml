@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://spaciumzeperion06.github.io/aliblog/'
 languageCode = 'en-us'
 title = "alice's blog"
 theme = 'hugo-bearcub'
@@ -8,11 +8,16 @@ theme = 'hugo-bearcub'
     dir = ':cacheDir/images'
 
 [params]
-  description = "alices blog"
+  description = "alice's blog"
 
   title = "alice's blog"
 
 [languages.en.menu]
+  [[languages.en.menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+
   [[languages.en.menu.main]]
     identifier = "about"
     name = "About"
