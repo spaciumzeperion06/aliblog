@@ -1,10 +1,25 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'bearcub'
+title = "alice's blog"
+theme = 'hugo-bearcub'
 
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
- 
- 
+
+[params]
+  description = "alices blog"
+
+  title = "alice's blog"
+
+[languages.en.menu]
+  [[languages.en.menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about"
+  
+  [[languages.en.menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/posts"
+  
