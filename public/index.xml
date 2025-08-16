@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>alice&#39;s blog</title>
-    <link>http://localhost:1313/</link>
+    <link>https://spaciumzeperion06.github.io/aliblog/</link>
     <description>Recent content on alice&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 15 Aug 2025 13:59:45 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Aug 2025 16:50:30 +0200</lastBuildDate>
+    <atom:link href="https://spaciumzeperion06.github.io/aliblog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://spaciumzeperion06.github.io/aliblog/about/</link>
       <pubDate>Fri, 15 Aug 2025 13:59:45 +0200</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://spaciumzeperion06.github.io/aliblog/about/</guid>
       <description>&lt;h1 id=&#34;ciao&#34;&gt;Ciao!&lt;/h1&gt;&#xA;&lt;p&gt;Mi chiamo alice, ho 18 anni, vivo in italia e sto attualmente studiando per entrare all&amp;rsquo;accademia di belle arti di napoli nella facoltà di Cinema e Audiovisivo. Ho una passione per la cultura pop giapponese, in particolare anime mecha e programmi televisivi tokusatsu, ma ho anche un vago interesse per l&amp;rsquo;informatica e l&amp;rsquo;elettronica. Su questo blog parlerò della mia vita personale, ma anche di film, serie e libri che mi piacciono :3&lt;/p&gt;</description>
       <content:encoded><![CDATA[<h1 id="ciao">Ciao!</h1>
 <p>Mi chiamo alice, ho 18 anni, vivo in italia e sto attualmente studiando per entrare all&rsquo;accademia di belle arti di napoli nella facoltà di Cinema e Audiovisivo. Ho una passione per la cultura pop giapponese, in particolare anime mecha e programmi televisivi tokusatsu, ma ho anche un vago interesse per l&rsquo;informatica e l&rsquo;elettronica. Su questo blog parlerò della mia vita personale, ma anche di film, serie e libri che mi piacciono :3</p>
@@ -21,9 +21,9 @@
     </item>
     <item>
       <title>First Post</title>
-      <link>http://localhost:1313/posts/first-post/</link>
+      <link>https://spaciumzeperion06.github.io/aliblog/posts/first-post/</link>
       <pubDate>Fri, 15 Aug 2025 12:28:56 +0200</pubDate>
-      <guid>http://localhost:1313/posts/first-post/</guid>
+      <guid>https://spaciumzeperion06.github.io/aliblog/posts/first-post/</guid>
       <description>&lt;p&gt;hiiii&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>hiiii</p>
 ]]></content:encoded>
